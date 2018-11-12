@@ -3,8 +3,6 @@
   -moz-box-orient: vertical;
   display: inline-block;
   vertical-align: $va;
-  *display: inline;
-  *zoom: 1;
 }
 
 @mixin opacity($val: 1, $important: 0) {
